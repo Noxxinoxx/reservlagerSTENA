@@ -1,0 +1,419 @@
+[
+    {
+        "Model" : "ASUS ROG G750", 
+        "manifacture" : "ASUS",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 1", 
+                "Count" : 1
+            }
+        ],
+        "Location" : "C6", 
+        "ID" : "1"
+    },
+    {
+        "Model" : "DELL XPS 15", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 2",
+                "Count" : 2
+            }
+        ],
+        "Location" : "C6", 
+        "ID" : "2"
+    },
+    {
+        "Model" : "DELL Precision 5510", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 3", 
+                "Count" : 1
+            }
+        ],
+        "Location" : "C6", 
+        "ID" : "3"
+    },{
+        "Model" : "DELL Latitude E5570", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 4", 
+                "Count" : 2
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "4"
+    },{
+        "Model" : "DELL Precision 15 3510", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 5",
+                "Count": 4
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "5"
+    },{
+        "Model" : "HP Probook 655 G1", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 6", 
+                "Count" : 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "6"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "HP EliteBook 840 G4", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 8",
+                "Count": 5
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "8"
+    },{
+        "Model" : "HP EliteBook 840 G6", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 9",
+                "Count": 4
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "9"
+    },{
+        "Model" : "HP 820 G4", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 10",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "10"
+    },{
+        "Model" : "DELL Precision 13 3510", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 11",
+                "Count": 5
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "11"
+    },{
+        "Model" : "HP EliteBook 745 G3", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 12",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "12"
+    },{
+        "Model" : "HP Folio 9480m", 
+        "manifacture" : "HP",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 13",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C5", 
+        "ID" : "13"
+    },{
+        "Model" : "DELL Latitude E7470", 
+        "manifacture" : "DELL",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 14",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C4", 
+        "ID" : "14"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    },{
+        "Model" : "ThinkPad L560", 
+        "manifacture" : "Lenovo",
+        "type" : [
+            {
+                "Name" : "SCREEN", 
+                "AssetTag" : "RL - 7",
+                "Count": 1
+            }
+
+        ],
+        "Location" : "C6", 
+        "ID" : "7"
+    }
+
+]
