@@ -1,419 +1,1151 @@
 [
     {
-        "Model" : "ASUS ROG G750", 
-        "manifacture" : "ASUS",
-        "type" : [
+        "Model": "ASUS ROG G750",
+        "manifacture": "ASUS",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 1", 
-                "Count" : 1
+                "Name": "SCREEN",
+                "AssetTag": "RL - 1",
+                "Count": 1
             }
         ],
-        "Location" : "C6", 
-        "ID" : "1"
+        "Location": "C6",
+        "ID": "1"
     },
     {
-        "Model" : "DELL XPS 15", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Model": "DELL XPS 15",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 2",
-                "Count" : 2
+                "Name": "SCREEN",
+                "AssetTag": "RL - 2",
+                "Count": 2,
+                "Location": "C6"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 58",
+                "Count": 1,
+                "Location": "D1"
             }
         ],
-        "Location" : "C6", 
-        "ID" : "2"
+        "Location": "C6",
+        "ID": "2"
     },
     {
-        "Model" : "DELL Precision 5510", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Model": "DELL Precision 5510",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 3", 
-                "Count" : 1
+                "Name": "SCREEN",
+                "AssetTag": "RL - 3",
+                "Count": 1,
+                "Location": "C6"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 59",
+                "Count": 1,
+                "Location": "D2"
             }
         ],
-        "Location" : "C6", 
-        "ID" : "3"
-    },{
-        "Model" : "DELL Latitude E5570", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Location": "C6",
+        "ID": "3"
+    },
+    {
+        "Model": "DELL Latitude E5570",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 4", 
-                "Count" : 2
+                "Name": "SCREEN",
+                "AssetTag": "RL - 4",
+                "Count": 2
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 80",
+                "Count": 3,
+                "Location": "E6"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 101",
+                "Count": 1,
+                "Location": "A4"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "4"
-    },{
-        "Model" : "DELL Precision 15 3510", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Location": "C6",
+        "ID": "4"
+    },
+    {
+        "Model": "DELL Precision 15 3510",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 5",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 5",
                 "Count": 4
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "5"
-    },{
-        "Model" : "HP Probook 655 G1", 
-        "manifacture" : "HP",
-        "type" : [
+        "Location": "C6",
+        "ID": "5"
+    },
+    {
+        "Model": "HP Probook 655 G1",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 6", 
-                "Count" : 1
+                "Name": "SCREEN",
+                "AssetTag": "RL - 6",
+                "Count": 1,
+                "Location": "C6"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 70",
+                "Count": 4,
+                "Location": "E2"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "6"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "ID": "6"
+    },
+    {
+        "Model": "ThinkPad L560",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 7",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "HP EliteBook 840 G4", 
-        "manifacture" : "HP",
-        "type" : [
+        "Location": "C6",
+        "ID": "7"
+    },
+    {
+        "Model": "HP EliteBook 840 G4",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 8",
-                "Count": 5
+                "Name": "SCREEN",
+                "AssetTag": "RL - 8",
+                "Count": 7,
+                "Location": "C5"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 91",
+                "Count": 4,
+                "Location": "E11"
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "8"
-    },{
-        "Model" : "HP EliteBook 840 G6", 
-        "manifacture" : "HP",
-        "type" : [
+        "ID": "8"
+    },
+    {
+        "Model": "HP EliteBook 840 G6",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 9",
-                "Count": 4
+                "Name": "SCREEN",
+                "AssetTag": "RL - 9",
+                "Count": 4,
+                "Location": "C5"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 57",
+                "Count": 1,
+                "Location": "D1"
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "9"
-    },{
-        "Model" : "HP 820 G4", 
-        "manifacture" : "HP",
-        "type" : [
+        "Location": "C5",
+        "ID": "9"
+    },
+    {
+        "Model": "HP 820 G4",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 10",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 10",
+                "Count": 1,
+                "Location": "C5"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 69",
+                "Count": 1,
+                "Location": "E2"
+            }
+        ],
+        "ID": "10"
+    },
+    {
+        "Model": "DELL Precision 13 3510",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 11",
+                "Count": 6
+            }
+        ],
+        "Location": "C5",
+        "ID": "11"
+    },
+    {
+        "Model": "HP EliteBook 745 G3",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 12",
+                "Count": 2
+            }
+        ],
+        "Location": "C4",
+        "ID": "12"
+    },
+    {
+        "Model": "HP Folio 9480m",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 13",
                 "Count": 1
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "10"
-    },{
-        "Model" : "DELL Precision 13 3510", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Location": "C4",
+        "ID": "13"
+    },
+    {
+        "Model": "DELL Latitude E7470",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 11",
-                "Count": 5
+                "Name": "SCREEN",
+                "AssetTag": "RL - 14",
+                "Count": 1
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 52",
+                "Count": 2,
+                "Location": "D3"
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "11"
-    },{
-        "Model" : "HP EliteBook 745 G3", 
-        "manifacture" : "HP",
-        "type" : [
+        "Location": "C4",
+        "ID": "14"
+    },
+    {
+        "Model": "HP EliteBook 840 G3",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 12",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 15",
+                "Count": 5,
+                "Location": "C3"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 60",
+                "Count": 2,
+                "Location": "D2"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 97",
+                "Count": 1,
+                "Location": "A3"
+            }
+        ],
+        "Location": "C3",
+        "ID": "15"
+    },
+    {
+        "Model": "HP Folio 1020 G1",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 16",
+                "Count": 1,
+                "Location": "C3"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 54",
+                "Count": 2,
+                "Location": "D1"
+            }
+        ],
+        "Location": "C3",
+        "ID": "16"
+    },
+    {
+        "Model": "Lenovo ThinkPad X260",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 17",
                 "Count": 1
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "12"
-    },{
-        "Model" : "HP Folio 9480m", 
-        "manifacture" : "HP",
-        "type" : [
+        "Location": "C2",
+        "ID": "16"
+    },
+    {
+        "Model": "Lenovo ThinkPad T460p",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 13",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 18",
                 "Count": 1
             }
-
         ],
-        "Location" : "C5", 
-        "ID" : "13"
-    },{
-        "Model" : "DELL Latitude E7470", 
-        "manifacture" : "DELL",
-        "type" : [
+        "Location": "C2",
+        "ID": "18"
+    },
+    {
+        "Model": "Lenovo ThinkPad T460",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 14",
+                "Name": "SCREEN",
+                "AssetTag": "RL - 19",
+                "Count": 2,
+                "Location": "C2"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 37",
+                "Count": 2,
+                "Location": "D3"
+            }
+        ],
+        "Location": "C2",
+        "ID": "19"
+    },
+    {
+        "Model": "Lenovo ThinkPad 13",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 20",
+                "Count": 1,
+                "Location": "C2"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 49",
+                "Count": 1,
+                "Location": "D3"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 78",
+                "Count": 1,
+                "Location": "E1"
+            }
+        ],
+        "ID": "20"
+    },
+    {
+        "Model": "HP EliteBook 830 G5",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 21",
+                "Count": 2,
+                "Location": "C2"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 50",
+                "Count": 2,
+                "Location": "D3"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 89",
+                "Count": 1,
+                "Location": "E7"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 99",
+                "Count": 1,
+                "Location": "A3"
+            }
+        ],
+        "Location": "C2",
+        "ID": "21"
+    },
+    {
+        "Model": "HP EliteBook 840 G2",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 22",
+                "Count": 1,
+                "Location": "C2"
+            },
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 51",
+                "Count": 2,
+                "Location": "D1"
+            }
+        ],
+        "Location": "C2",
+        "ID": "22"
+    },
+    {
+        "Model": "LENOVO YOGA 910 5 PRO",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 23",
+                "Count": 1,
+                "Location": "C1"
+            }
+        ],
+        "ID": "23"
+    },
+    {
+        "Model": "Lenovo ThinkPad T470",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 24",
+                "Count": 1,
+                "Location": "C1"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 77",
+                "Count": 1,
+                "Location": "E1"
+            }
+        ],
+        "ID": "24"
+    },
+    {
+        "Model": "Lenovo ThinkPad T450",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 25",
+                "Count": 1
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 63",
+                "Count": 3,
+                "Location": "E1"
+            }
+        ],
+        "Location": "C1",
+        "ID": "25"
+    },
+    {
+        "Model": "Lenovo ThinkPad L470",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "SCREEN",
+                "AssetTag": "RL - 26",
                 "Count": 1
             }
-
         ],
-        "Location" : "C4", 
-        "ID" : "14"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "C1",
+        "ID": "26"
+    },
+    {
+        "Model": "DELL Latitude 5580",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 27",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D4",
+        "ID": "27"
+    },
+    {
+        "Model": "HP EliteBook 850 G6",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 28",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D4",
+        "ID": "28"
+    },
+    {
+        "Model": "HP EliteBook 850 G5",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 29",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D4",
+        "ID": "28"
+    },
+    {
+        "Model": "HP ZBook 15U G5",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 30",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D4",
+        "ID": "30"
+    },
+    {
+        "Model": "HP ZBook 15 G3",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 31",
+                "Count": 1,
+                "Location": "D4"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 88",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "Location": "D4",
+        "ID": "31"
+    },
+    {
+        "Model": "DELL Latitude 5590",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 32",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D4",
+        "ID": "32"
+    },
+    {
+        "Model": "DELL Latitude 7390",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 33",
+                "Count": 2
+            }
+        ],
+        "Location": "D1",
+        "ID": "33"
+    },
+    {
+        "Model": "DELL Latitude 7480",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 34",
+                "Count": 3,
+                "Location": "D1"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 79",
+                "Count": 3,
+                "Location": "E6"
+            }
+        ],
+        "Location": "D1",
+        "ID": "34"
+    },
+    {
+        "Model": "HP ProBook 640 G2",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 35",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D3",
+        "ID": "35"
+    },
+    {
+        "Model": "DELL Latitude E7270",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 36",
+                "Count": 4,
+                "Location": "D1"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 102",
+                "Count": 3,
+                "Location": "A15"
+            }
+        ],
+        "Location": "D1",
+        "ID": "36"
+    },
+    {
+        "Model": "Lenovo ThinkPad T450s",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 38",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D3",
+        "ID": "38"
+    },
+    {
+        "Model": "Lenovo ThinkPad T470p",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 39",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D3",
+        "ID": "39"
+    },
+    {
+        "Model": "Lenovo ThinkPad X260",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 41",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D1",
+        "ID": "41"
+    },
+    {
+        "Model": "HP EliteBook x360 1030 G2",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 42",
+                "Count": 3,
+                "Location": "D1"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 87",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "Location": "D1",
+        "ID": "42"
+    },
+    {
+        "Model": "DELL Latitude 3300",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 43",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D3",
+        "ID": "43"
+    },
+    {
+        "Model": "DELL Latitude 5490",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 44",
+                "Count": 5,
+                "Location": "D3"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 81",
+                "Count": 2,
+                "Location": "E6"
+            }
+        ],
+        "Location": "D3",
+        "ID": "44"
+    },
+    {
+        "Model": "DELL Latitude 7380",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 45",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D1",
+        "ID": "45"
+    },
+    {
+        "Model": "DELL Latitude 7440",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 46",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D1",
+        "ID": "46"
+    },
+    {
+        "Model": "DELL Precision 3520",
+        "manifacture": "DELL",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 47",
+                "Count": 1,
+                "Location": "D4"
+            }
+        ],
+        "ID": "47"
+    },
+    {
+        "Model": "DELL Latitude E5270",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 40",
+                "Count": 4,
+                "Location": "D1"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 82",
+                "Count": 3,
+                "Location": "E6"
+            }
+        ],
+        "ID": "40"
+    },
+    {
+        "Model": "DELL Latitude E5530",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 48",
+                "Count": 1,
+                "Location": "D1"
+            },
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 66",
+                "Count": 4,
+                "Location": "E3"
+            }
+        ],
+        "ID": "48"
+    },
+    {
+        "Model": "HP EliteBook 820 G3",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 53",
                 "Count": 1
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D1",
+        "ID": "53"
+    },
+    {
+        "Model": "HP EliteBook 830 G6",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
-                "Count": 1
+                "Name": "BACKBOARD",
+                "AssetTag": "RL - 56",
+                "Count": 1,
+                "Location": "D1"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "Location": "D1",
+        "ID": "56"
+    },
+    {
+        "Model": "Lenovo YOGA 720",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
-                "Count": 1
+                "Name": "Battery",
+                "AssetTag": "RL - 61",
+                "Count": 1,
+                "Location": "E1"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "ID": "61"
+    },
+    {
+        "Model": "Lenovo ThinkPad T440",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
-                "Count": 1
+                "Name": "Battery",
+                "AssetTag": "RL - 62",
+                "Count": 3,
+                "Location": "E1"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "ID": "62"
+    },
+    {
+        "Model": "Lenovo ThinkPad T440p",
+        "manifacture": "Lenovo",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
-                "Count": 1
+                "Name": "Battery",
+                "AssetTag": "RL - 64",
+                "Count": 3,
+                "Location": "E1"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
-    },{
-        "Model" : "ThinkPad L560", 
-        "manifacture" : "Lenovo",
-        "type" : [
+        "ID": "64"
+    },
+    {
+        "Model": "HP EliteBook 840 G1",
+        "manifacture": "HP",
+        "type": [
             {
-                "Name" : "SCREEN", 
-                "AssetTag" : "RL - 7",
-                "Count": 1
+                "Name": "Battery",
+                "AssetTag": "RL - 67",
+                "Count": 1,
+                "Location": "E2"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 100",
+                "Count": 1,
+                "Location": "A4"
             }
-
         ],
-        "Location" : "C6", 
-        "ID" : "7"
+        "ID": "67"
+    },
+    {
+        "Model": "DELL Latitude E5450",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 68",
+                "Count": 2,
+                "Location": "E2"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 92",
+                "Count": 1,
+                "Location": "A1"
+            }
+        ],
+        "ID": "68"
+    },
+    {
+        "Model": "DELL Latitude E7440",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 72",
+                "Count": 1,
+                "Location": "E5"
+            }
+        ],
+        "ID": "72"
+    },
+    {
+        "Model": "HP EliteBook Folio 9470",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 73",
+                "Count": 1,
+                "Location": "E4"
+            },
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 96",
+                "Count": 1,
+                "Location": "A2"
+            }
+        ],
+        "ID": "73"
+    },
+    {
+        "Model": "Lenovo G400",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 74",
+                "Count": 2,
+                "Location": "E4"
+            }
+        ],
+        "ID": "74"
+    },
+    {
+        "Model": "Lenovo ThinkPad T490",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 75",
+                "Count": 2,
+                "Location": "E4"
+            }
+        ],
+        "ID": "75"
+    },
+    {
+        "Model": "Lenovo ThinkPad X280",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 76",
+                "Count": 1,
+                "Location": "E4"
+            }
+        ],
+        "ID": "76"
+    },
+    {
+        "Model": "Lenovo ThinkPad T570",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 65",
+                "Count": 1,
+                "Location": "E1"
+            }
+        ],
+        "ID": "65"
+    },
+    {
+        "Model": "DELL Precision 15 7510",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 83",
+                "Count": 1,
+                "Location": "E6"
+            }
+        ],
+        "ID": "83"
+    },
+    {
+        "Model": "HP ProBook 455 G6",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 84",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "84"
+    },
+    {
+        "Model": "HP ProBook 430 G2",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 85",
+                "Count": 5,
+                "Location": "E8"
+            }
+        ],
+        "ID": "85"
+    },
+    {
+        "Model": "HP ProBook 650 G8",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 86",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "86"
+    },
+    {
+        "Model": "HP ProBook 455 G4",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 90",
+                "Count": 6,
+                "Location": "E11"
+            }
+        ],
+        "ID": "90"
+    },
+    {
+        "Model": "HP EliteBook 820 G1",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 93",
+                "Count": 4,
+                "Location": "A1"
+            }
+        ],
+        "ID": "93"
+    },
+    {
+        "Model": "DELL Latitude E5470",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 94",
+                "Count": 1,
+                "Location": "A1"
+            }
+        ],
+        "ID": "94"
+    },
+    {
+        "Model": "Lenovo YOGA 460 P40",
+        "manifacture": "Lenovo",
+        "type": [
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 95",
+                "Count": 1,
+                "Location": "A2"
+            }
+        ],
+        "ID": "95"
+    },
+    {
+        "Model": "DELL Latitude E5440",
+        "manifacture": "DELL",
+        "type": [
+            {
+                "Name": "KeyBoard",
+                "AssetTag": "RL - 98",
+                "Count": 2,
+                "Location": "A3"
+            }
+        ],
+        "ID": "98"
+    },
+    {
+        "Model": "HP ProBook 455 G6",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 84",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "84"
+    },
+    {
+        "Model": "HP ProBook 455 G6",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 84",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "84"
+    },
+    {
+        "Model": "HP ProBook 455 G6",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 84",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "84"
+    },
+    {
+        "Model": "HP ProBook 455 G6",
+        "manifacture": "HP",
+        "type": [
+            {
+                "Name": "Battery",
+                "AssetTag": "RL - 84",
+                "Count": 1,
+                "Location": "E7"
+            }
+        ],
+        "ID": "84"
     }
-
 ]
